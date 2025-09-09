@@ -22,4 +22,3 @@ fi
 
 echo "Starting tileserver-gl-light with config.json..."
 npx tileserver-gl-light --port "$PORT" --config config.json --verbose
-
