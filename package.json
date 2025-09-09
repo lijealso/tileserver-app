@@ -2,7 +2,7 @@
   "name": "tileserver-app",
   "version": "1.0.0",
   "private": true,
-  "engines": { "node": ">=18" },
+  "engines": { "node": "18.x" },
   "scripts": {
     "start": "bash start.sh"
   },
