@@ -20,6 +20,6 @@ if [ -n "${MBTILES_SHA256:-}" ]; then
   echo "$MBTILES_SHA256  $FILE" | sha256sum -c -
 fi
 
-# Start tileserver-gl-light with config.json
 echo "Starting tileserver-gl-light with config.json..."
 npx tileserver-gl-light --port "$PORT" --config config.json --verbose
+
