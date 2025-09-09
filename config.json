@@ -1,0 +1,22 @@
+{
+  "options": {
+    "paths": {
+      "root": ".",
+      "fonts": "node_modules/tileserver-gl-styles/fonts",
+      "styles": "node_modules/tileserver-gl-styles/styles"
+    }
+  },
+  "data": {
+    "mymap": {
+      "mbtiles": "data.mbtiles"
+    }
+  },
+  "styles": {
+    "basic": {
+      "style": "node_modules/tileserver-gl-styles/styles/basic/style.json",
+      "tilejson": {
+        "bounds": [-180, -85, 180, 85]
+      }
+    }
+  }
+}
