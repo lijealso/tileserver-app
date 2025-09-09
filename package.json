@@ -8,6 +8,6 @@
   },
   "dependencies": {
     "tileserver-gl-light": "^2.6.0",
-    "tileserver-gl-styles": "^1.0.1"
+    "tileserver-gl-styles": "^1.2.0"
   }
 }
