@@ -9,9 +9,8 @@
     }
   },
   "data": {
-    "v3": {                 <-- this name must match the style reference
+    "v3": {
       "mbtiles": "data.mbtiles"
     }
   }
 }
-
