@@ -1,24 +1,18 @@
 {
   "options": {
     "paths": {
-      "root": "./node_modules/tileserver-gl-styles/styles"
+      "root": "."
     }
   },
   "styles": {
     "basic": {
-      "style": "basic/style.json"
-    },
-    "bright": {
-      "style": "bright/style.json"
-    },
-    "dark": {
-      "style": "dark/style.json"
+      "style": "styles/style.json"
     }
   },
   "data": {
-    "data": {
+    "mymap": {
       "mbtiles": "data.mbtiles"
     }
-  },
-  "viewer": true
+  }
 }
+
