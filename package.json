@@ -1,0 +1,12 @@
+{
+  "name": "tileserver-app",
+  "version": "1.0.0",
+  "private": true,
+  "engines": { "node": ">=18" },
+  "scripts": {
+    "start": "bash start.sh"
+  },
+  "dependencies": {
+    "tileserver-gl-light": "^2.6.0"
+  }
+}
