@@ -9,7 +9,7 @@
     }
   },
   "data": {
-    "mymap": {
+    "v3": {                 <-- this name must match the style reference
       "mbtiles": "data.mbtiles"
     }
   }
